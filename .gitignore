@@ -1,0 +1,18 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore nano backup files
+*.save
+*.save.*
+
+# Ignore OS files
+.DS_Store
+# Ignore compiled Java files
+*.class
+
+# Ignore nano backup files
+*.save
+*.save.*
+
+# Ignore OS files
+.DS_Store
